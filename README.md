@@ -1,8 +1,8 @@
-### Retarrd Disclaimer
+### Retarr'd Disclaimer
 
 \[To my knowledge\] There isn't a tool to keep an up-to-date copy of the best stuff (not IsBest) from SeaDex so I decided to make something for *personal use*. This repo is just to track my progress and think out loud.
 
-I have a working spaghetti code PoC but its too Retarrded. Gonna rewrite with Docker + AniList integration and publish a 1.0 hopefully in a month or so
+I have a working spaghetti code PoC but its too Retarr'ded. Gonna rewrite with Docker + AniList integration and publish a 1.0 hopefully in a month or so
 
 ### No private trackers
 
@@ -92,5 +92,5 @@ seadex
 
 ### FAQ
 
-**Why Retarrd?**
+**Why Retarr'd?**
 > Because its funny. The other idea was Gaydarr but Whisparr already handles gay stuff
